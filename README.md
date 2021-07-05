@@ -12,6 +12,11 @@ There a a total of 16 programs
  - Insert at bottom of stack
  - Kadane's algorithm
  - Leetcode #1
+ - Leetcode #7
+ - Leetcode #9
+ - Leetcode #13
+ - Leetcode #14
+ - Leetcode #26
  - Leetcode #1247
  - Length of Linked list(Iterative)
  - Length of Linked list(Recurssive)
