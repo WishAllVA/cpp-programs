@@ -2,13 +2,18 @@
 
 This repository is me trying out different c++ programs and also for competitive programmers who want solution to problems in c++ language.
 
-There a a total of 16 programs
+There a a total of 31 programs
+ - Almost Coin
  - Array reverse using stack
  - Breadth First Search for Graph
  - Binary search
  - Codeforces Contest 729 - A
  - Codeforces Contest 729 - B
+ - Codeforces Contest 730 - A
+ - Codeforces Contest 730 - B
  - Continous max subarray
+ - DP no. of paths
+ - GFG max character
  - Insert at bottom of stack
  - Kadane's algorithm
  - Leetcode #1
