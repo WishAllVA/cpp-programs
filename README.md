@@ -13,6 +13,7 @@ There a a total of 31 programs
  - Codeforces Contest 730 - B
  - Continous max subarray
  - DP no. of paths
+ - GCD of two numbers
  - GFG max character
  - Insert at bottom of stack
  - Kadane's algorithm
@@ -25,10 +26,13 @@ There a a total of 31 programs
  - Leetcode #1247
  - Length of Linked list(Iterative)
  - Length of Linked list(Recurssive)
+ - Longest Palindromic Substring(2- Pointer)
  - Max length subarray
  - Merging of 2 sorted arrays
  - Next greater element
  - Nth prime
+ - Pascal Triangle
+ - Print all subsets
  - Queue using stack
  - Reverse a stack with recursion
  - Reverse a stack without recursion
