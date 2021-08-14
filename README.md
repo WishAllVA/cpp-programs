@@ -2,21 +2,40 @@
 
 This repository is me trying out different c++ programs and also for competitive programmers who want solution to problems in c++ language.
 
-There a a total of 75 programs
+There a a total of 101 programs
  - Almost Coin
- - Array reverse using stack
+ - Array reverse using swap
  - Breadth First Search for Graph
+ - AtCoder 214 A
+ - AtCoder 214 B
+ - AtCoder Contest 213 A
+ - AtCoder Contest 213 B
+ - AtCoder Contest 213 C
+ - BFS
  - Binary search
+ - Construct BST from given preorder traversal
  - Codechef July Cookoff 2021 - A
  - Codechef July Cookoff 2021 - B
  - Codechef July Cookoff 2021 - C
+ - Codechef July Lunchtime 2021 - A
+ - Codechef July Lunchtime 2021 - B
  - GFG - Equilibrium Point
- - Codeforces Contest 729 - A
+ - Codeforces Contest 1 - A
+ - Codeforces Contest 4 - A
+ - Codeforces Contest 50 - A
+ - Codeforces Contest 71 - A
+ - Codeforces Contest 158 - A
+ - Codeforces Contest 231 - A
+ - Codeforces Contest 263 - A
+ - Codeforces Contest 282 - A
  - Codeforces Contest 729 - B
  - Codeforces Contest 730 - A
  - Codeforces Contest 730 - B
- - Codeforces Contest 4A
- - Codeforces Contest 732 - B
+ - Codeforces Contest 736 - A
+ - Codeforces Contest 736 - B
+ - Codeforces Contest 737 - A
+ - Codeforces Contest 730 - B
+ - Codeforces Contest 1555 - A
  - Continous max subarray
  - Counting Element in two arrays
  - DP no. of paths
@@ -43,6 +62,8 @@ There a a total of 75 programs
  - Leetcode #48
  - Leetcode #49
  - Leetcode #62
+ - Leetcode #75
+ - Leetcode #78
  - Leetcode #143
  - Leetcode #144
  - Leetcode #160(O(n^2))
@@ -62,14 +83,19 @@ There a a total of 75 programs
  - Leetcode #1249
  - Length of Linked list(Iterative)
  - Length of Linked list(Recurssive)
- - Longest Palindromic Substring(2- Pointer)
+ - Max length subarray with sum 0
  - Median of two sorted arrays
+ - Merging of two sorted arrays
  - Minimum number in a sorted rotated array
+ - Next greater element
+ - Next smaller element
  - Max length subarray
  - Merging of 2 sorted arrays
  - Next greater element
  - Nth prime
  - Pascal Triangle
+ - Previous greater element
+ - Previous smaller element
  - Print all subsets
  - Queue using stack
  - Reverse a stack with recursion
